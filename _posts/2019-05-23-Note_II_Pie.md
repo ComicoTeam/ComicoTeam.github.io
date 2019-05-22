@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Oh my dear old Note II
-	Developing for Exynos is a pain anyway but when you start to talk about Exyons 4 in 2019 it's a diffrent story.
+Developing for Exynos is a pain anyway but when you start to talk about Exyons 4 in 2019 it's a diffrent story.
 Getting sensors to work it's hell especially on N7100. The funny thing is that I9300 has almost the same sensors and because Victor Shilin made an awesome Los 16.0 and 15.1 of S3 you will think that you can just copy paste the code and job done. How nice would be...
 Note II is using a stupid system to enable the sensors called **SSP** (God knows what's that suppose to mean)
 
